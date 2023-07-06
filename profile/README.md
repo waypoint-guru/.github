@@ -1,4 +1,4 @@
-![Waypoint Guru Readme](https://github.com/waypoint-guru/.github/blob/main/images/logo.png)
+![Waypoint Guru Readme](https://github.com/waypoint-guru/.github/blob/main/images/image.jpg)
 
 ## Welcome to the home of [waypoint.guru](https://waypoint.guru)
 
